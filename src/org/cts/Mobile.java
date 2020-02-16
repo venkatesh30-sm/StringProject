@@ -14,6 +14,7 @@ public class Mobile {
 			System.out.println("full ticket");
 		}
 		
-		
+		Mobile m=new Mobile();
+		System.out.println("object created");
 	}
 }
