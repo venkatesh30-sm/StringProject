@@ -14,6 +14,8 @@ public class Mobile {
 			System.out.println("full ticket");
 		}
 		
-		
+		System.out.println("hai");
+		System.out.println("hello");
+		System.out.println("welcome");
 	}
 }
